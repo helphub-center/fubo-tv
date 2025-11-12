@@ -11,7 +11,7 @@ In a few seconds, your TV will be connected and ready to stream your favorite Fu
    <!-- Primary button matching Fubo brand color (#E3001B) -->
    <a href="https://fubo.tv/connect"
       style="display:inline-block;padding:12px 20px;border-radius:6px;background-color:#E3001B;color:#ffffff;text-decoration:none;font-weight:600;">
-      Connect on fubo.tv/connect
+                                   Connect on fubo tv
    </a>
 
 Step-by-Step Guide
